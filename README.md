@@ -1,20 +1,18 @@
-##Project description
+## Project description
 The goal of this project is to identify patterns that determine whether Yandex.Afisha buisness model is solid and find ways to optimize it. Using user and login data, sources cost and purchases made in a given timeframe.
 
-###Outline of analysis:
+### Outline of analysis:
+- How people use the product.
+- When they start to buy.
+- How much money each customer brings.
+- When they pay off.
 
-How people use the product.
-When they start to buy.
-How much money each customer brings.
-When they pay off.
+### Data description:
+- Server logs with data on Yandex.Afisha visits from June 2017 through May 2018.
+- Dump file with all orders for the period.
+- Marketing expenses statistics.
 
-###Data description:
-
-Server logs with data on Yandex.Afisha visits from June 2017 through May 2018.
-Dump file with all orders for the period.
-Marketing expenses statistics.
-
-##Recomendations:
+## Recomendations:
 For Yandex.Afisha to show profit there are several factors to consider:
 
 **DAU:**
