@@ -18,12 +18,15 @@ For Yandex.Afisha to show profit there are several factors to consider:
 **DAU:**
 - Need to increase DAU, and optimally see a steady growth coming from regular customers.
 - Increase time spent by users on site, and number of sessions per user.
+
 **Retention:**
 - Stop the decrease in retention rates between cohorts.
 - Convertion times are good, to be preserved.
+
 **Cohorts:**
 - Cohort 2017-06 preform spectaculary, need to classify and find out the parameters that make it sucssesfull and implement on newer cohorts.
 **Source:**
+
 - Best conversion is in source number: 1.
 - Sources no. 1,2,9 and 5 are with profitable ROI.
 - Decrease marketing spending on unprofitable sources.
